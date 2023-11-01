@@ -5,8 +5,8 @@
         "title": "Whispers in the Woods",
         "author": "Samantha J. Archer",
         "author_img": "https://i.ibb.co/FJsfpvy/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
-        "posteddate": "March 15, 2023",
-        "readingtime": 12,
+        "posted_date": "March 15, 2023",
+        "reading_time": 12,
         "hashtags": [
             "#mystery",
             "#nature",
@@ -19,8 +19,8 @@
         "title": "Echoes of Eternity",
         "author": "Max R. Evergreen",
         "author_img": "https://i.ibb.co/Qv572vt/handsome-man-with-glasses.jpg",
-        "posteddate": "June 8, 2023",
-        "readingtime": 18,
+        "posted_date": "June 8, 2023",
+        "reading_time": 18,
         "hashtags": [
             "#fantasy",
             "#magic",
@@ -33,8 +33,8 @@
         "title": "Sands of Serendipity",
         "author": "Aria S. Nightingale",
         "author_img": "https://i.ibb.co/WF8f82Z/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
-        "posteddate": "October 22, 2023",
-        "readingtime": 15,
+        "posted_date": "October 22, 2023",
+        "reading_time": 15,
         "hashtags": [
             "#romance",
             "#travel",
@@ -47,10 +47,10 @@
         "title": "Beyond the Horizon",
         "author": "Ethan K. Hawthorne",
         "author_img": "https://i.ibb.co/gdTt8vF/handsome-young-guy-with-glasses-posing.jpg",
-        "posteddate": "April 5, 2023",
-        "readingtime": 20,
+        "posted_date": "April 5, 2023",
+        "reading_time": 20,
         "hashtags": [
-            "#sci-fi",
+            "#sci_fi",
             "#future",
             "#exploration"
         ]
@@ -61,8 +61,8 @@
         "title": "Underneath the Veil",
         "author": "Olivia M. Shadow",
         "author_img": "https://i.ibb.co/cDZX09N/smiley-handsome-man-posing.jpg",
-        "posteddate": "August 12, 2023",
-        "readingtime": 25,
+        "posted_date": "August 12, 2023",
+        "reading_time": 25,
         "hashtags": [
             "#mystery",
             "#suspense",
