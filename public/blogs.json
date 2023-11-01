@@ -1,0 +1,72 @@
+[
+    {
+        "id": 98765,
+        "cover": "https://i.ibb.co/7yJs8VB/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+        "title": "Whispers in the Woods",
+        "author": "Samantha J. Archer",
+        "author_img": "https://i.ibb.co/FJsfpvy/kelly-sikkema-JN0-SUc-TOig0-unsplash.jpg",
+        "posteddate": "March 15, 2023",
+        "readingtime": 12,
+        "hashtags": [
+            "#mystery",
+            "#nature",
+            "#thriller"
+        ]
+    },
+    {
+        "id": 23456,
+        "cover": "https://i.ibb.co/cDN0svZ/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Max R. Evergreen",
+        "author_img": "https://i.ibb.co/Qv572vt/handsome-man-with-glasses.jpg",
+        "posteddate": "June 8, 2023",
+        "readingtime": 18,
+        "hashtags": [
+            "#fantasy",
+            "#magic",
+            "#adventure"
+        ]
+    },
+    {
+        "id": 34567,
+        "cover": "https://i.ibb.co/vwc7d6f/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+        "title": "Sands of Serendipity",
+        "author": "Aria S. Nightingale",
+        "author_img": "https://i.ibb.co/WF8f82Z/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+        "posteddate": "October 22, 2023",
+        "readingtime": 15,
+        "hashtags": [
+            "#romance",
+            "#travel",
+            "#mystery"
+        ]
+    },
+    {
+        "id": 45678,
+        "cover": "https://i.ibb.co/TcCgJrv/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Ethan K. Hawthorne",
+        "author_img": "https://i.ibb.co/gdTt8vF/handsome-young-guy-with-glasses-posing.jpg",
+        "posteddate": "April 5, 2023",
+        "readingtime": 20,
+        "hashtags": [
+            "#sci-fi",
+            "#future",
+            "#exploration"
+        ]
+    },
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/tYG18R3/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+        "title": "Underneath the Veil",
+        "author": "Olivia M. Shadow",
+        "author_img": "https://i.ibb.co/cDZX09N/smiley-handsome-man-posing.jpg",
+        "posteddate": "August 12, 2023",
+        "readingtime": 25,
+        "hashtags": [
+            "#mystery",
+            "#suspense",
+            "#supernatural"
+        ]
+    }
+]
